@@ -9,7 +9,7 @@
 
 - 📝 Semanalmente escrevo artigos no linkdin [https://www.linkedin.com /public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7ZHZNdUGRgiAnoEkbtTz0Q%3D%3D](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage% 3Ad_flagship3_profile_self_edit_contact-info%3B7ZHZNdUGRgiAnoEkbtTz0Q%3D%3D)
 
-- Me pergunte sobre **python, sql,análise de dados**
+- Me pergunte sobre **python, sql, análise de dados**
 
 - 📫 Me encontre através do endereço **inesmadalena27@gmail.com**
 
